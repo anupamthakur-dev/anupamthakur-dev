@@ -1,7 +1,8 @@
-<h2 align="center">Hi 👋, I'm Anupam</h1>
+<h2 align="center">Hi 👋, I'm Anupam</h2>
 <br/>
-<p align="center"> <strong>
-  Frontend Developer • JavaScript Enthusiast • UI Problem Solver
+<p align="center"> 
+  <strong>
+    Frontend Developer • JavaScript Enthusiast • UI Problem Solver
   </strong>
 </p>
 
@@ -10,11 +11,7 @@
   I like my UIs intuitive and my code future-proof.
 </h6>
 
-
-
-<br>
-<br>
-
+<br><br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" />
@@ -30,30 +27,30 @@
 </p>
 <h6 align="center">Skills I Work With</h6>
 
-
 <br/>
 
-
-<h2>🚀 Projects</h2>
+<h2>🚀 Project</h2>
 
 <ul>
-  <li><b>SyllabDesk</b> – Syllabus-based study material platform</li>
-  <li><b>Resume Builder</b> – Real-time resume editor with templates</li>
-  <li><b>Collaborative Whiteboard</b> – React + Rough.js drawing app</li>
+  <li>
+    <b>Pomyo</b> – A focused productivity app inspired by the Pomodoro technique.<br/>
+    Designed to reduce friction, improve task clarity, and keep users in flow.<br/>
+    Built with a frontend-first mindset emphasizing UX, performance, and simplicity.
+  </li>
 </ul>
 
 <br/>
 
-
-<h2 >📈 Currently Working On</h2>
+<h2>🧠 What I Care About</h2>
 
 <ul>
-  <li>Advanced JavaScript for interviews</li>
-  <li>Frontend system design patterns</li>
-  <li>Building production-ready React apps</li>
+  <li>Readable code over clever code</li>
+  <li>UI that explains itself</li>
+  <li>Performance as a feature, not an afterthought</li>
+  <li>Design systems that scale without drama</li>
 </ul>
 
-
+<br/>
 
 <h2 align="center">📫 Connect With Me</h2>
 
