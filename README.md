@@ -55,8 +55,8 @@
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anupam-thakur-aaa462238" target="_blank" >LinkedIn</a> •
-  <a href="https://anupam-portfolio-eight.vercel.app/" target="_blank" >Portfolio</a>
+  <a href="https://www.linkedin.com/in/anupam-thakur-aaa462238" target="_blank" rel="noopener noreferrer" >LinkedIn</a> •
+  <a href="https://anupam-portfolio-eight.vercel.app/" target="_blank" rel="noopener noreferrer" >Portfolio</a>
 </p>
 
 <p align="center">
